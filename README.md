@@ -66,9 +66,3 @@ Simpel WhatsApp Bot
 > node . [<session name>] (session name is optional)
 ```
 
-# My Sosmed
-#### Whatsapp : [`Click Here`](https://api.whatsapp.com/send/?phone=62857890047322&text&app_absent=0)
-#### Grup Bot : [`Click Here`](https://chat.whatsapp.com/LeGxfgT6gjV0sdAOkYC5fG)
-#### YouTube : [`Click Here`](https://youtube.com/c/LEX4YOUU)
-
-
